@@ -1,4 +1,4 @@
-# JuliReach & JuliaIntervals Days 3: Reachathon
+# JuliaReach & JuliaIntervals Days 3: Reachathon
 
 ## What?
 
