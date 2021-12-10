@@ -21,7 +21,7 @@ Every contribution and initiative counts, from first-time contributors seeking g
 
 ## Challenge Problem 4 by Jorge Pérez Zerpa
 
-**A nonlinear truss structural dynamics problem using reachability analysis.** In this challenge, a simple truss-structure linear/nonlinear dynamics problem will be presented, where in the nonlinear case, large displacements are considered [1]. Basic Finite Element Method and Solid Dynamics concepts will be exposed, as well as the gold-standard numerical integration techniques. The recent application of Reachability Analysis to the linear case will be recalled [2]. The numerical results for the linear case using numerical integration and reachability will be obtained. Finally the nonlinear case problem will be clearly posed allowing to discuss possible novel approaches using reachability analysis.
+**A nonlinear truss structural dynamics problem using reachability analysis.** In this challenge, a simple truss-structure linear/nonlinear dynamics problem will be presented, where in the nonlinear case, large displacements are considered. Basic Finite Element Method and Solid Dynamics concepts will be exposed, as well as the gold-standard numerical integration techniques. The recent application of Reachability Analysis to the linear case will be recalled. The numerical results for the linear case using numerical integration and reachability will be obtained. Finally the nonlinear case problem will be clearly posed allowing to discuss possible novel approaches using reachability analysis.
 
 ## Challenge Problem 5 by Niklas Kochdumper
 
