@@ -5,5 +5,5 @@ $ julia --project=.
 
 julia> ] instantiate  # install project dependencies
 
-julia> include("example.jl") # run the examples
+julia> include("examples.jl") # run the examples
 ``` 
